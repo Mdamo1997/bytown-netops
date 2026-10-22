@@ -1,0 +1,5 @@
+Q1: 2bd4dc13
+Q2: 3
+Q3: "git pull" because the main on your device is now missing commits from the main on Github which will cause an error when pushing.
+Q4: No because the file was already pushed to GitHub and will be present on the commits there, even if updated. 
+Q5: local: "git branch -d old-fix" GitHub: "git push origin --delete old-fix"
